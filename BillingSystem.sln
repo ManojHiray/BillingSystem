@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillingSystem", "BillingSystem\BillingSystem.csproj", "{F778D956-DCA8-4C09-852E-65B8C05EC760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F778D956-DCA8-4C09-852E-65B8C05EC760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F778D956-DCA8-4C09-852E-65B8C05EC760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F778D956-DCA8-4C09-852E-65B8C05EC760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F778D956-DCA8-4C09-852E-65B8C05EC760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CD137F2-BABD-4BDD-8E5D-777EC6294D91}
+	EndGlobalSection
+EndGlobal

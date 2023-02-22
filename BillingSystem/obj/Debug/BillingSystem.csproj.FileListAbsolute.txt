@@ -1,0 +1,107 @@
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.AssemblyReference.cache
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\obj\Debug\MainWindow.g.cs
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\obj\Debug\App.g.cs
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem_MarkupCompile.cache
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem_MarkupCompile.lref
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\obj\Debug\MainWindow.baml
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.g.resources
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.cache
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.AssemblyReference.cache
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\obj\Debug\MainWindow.g.cs
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\obj\Debug\App.g.cs
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\obj\Debug\BillingSystem_MarkupCompile.cache
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\obj\Debug\BillingSystem_MarkupCompile.lref
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\obj\Debug\MainWindow.baml
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\obj\Debug\BillingSystem.g.resources
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.cache
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Auth.dll
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Core.dll
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Google.Apis.dll
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Docs.v1.dll
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Google.Apis.pdb
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Google.Apis.xml
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Auth.xml
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Core.pdb
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Core.xml
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Docs.v1.pdb
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Docs.v1.xml
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\singar\Desktop\C# Learning\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.CopyComplete
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Auth.dll
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Core.dll
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Google.Apis.dll
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Docs.v1.dll
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Google.Apis.pdb
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Google.Apis.xml
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Auth.xml
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Core.pdb
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Core.xml
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Docs.v1.pdb
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Docs.v1.xml
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.AssemblyReference.cache
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\obj\Debug\MainWindow.g.cs
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\obj\Debug\App.g.cs
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\obj\Debug\BillingSystem_MarkupCompile.cache
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\obj\Debug\BillingSystem_MarkupCompile.lref
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\obj\Debug\MainWindow.baml
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\obj\Debug\BillingSystem.g.resources
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.cache
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.CopyComplete
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\hirama\Downloads\BillingSystem\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Auth.dll
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Core.dll
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Google.Apis.dll
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Docs.v1.dll
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Google.Apis.pdb
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Google.Apis.xml
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Auth.xml
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Core.pdb
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Core.xml
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Docs.v1.pdb
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Google.Apis.Docs.v1.xml
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hirama\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.CopyComplete
+D:\New_C#_Repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.AssemblyReference.cache
+D:\New_C#_Repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.SuggestedBindingRedirects.cache
+D:\New_C#_Repos\BillingSystem\BillingSystem\obj\Debug\MainWindow.g.cs
+D:\New_C#_Repos\BillingSystem\BillingSystem\obj\Debug\App.g.cs
+D:\New_C#_Repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem_MarkupCompile.cache
+D:\New_C#_Repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem_MarkupCompile.lref
+D:\New_C#_Repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+D:\New_C#_Repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb

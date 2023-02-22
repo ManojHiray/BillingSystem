@@ -1,0 +1,45 @@
+﻿<Window x:Class="BillingSystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BillingSystem"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="960">
+    <Grid Height="434" VerticalAlignment="Center">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="357*"/>
+            <ColumnDefinition Width="443*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Invoice Id" Margin="27,81,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.544,1.276" HorizontalAlignment="Left" FontFamily="Arial Black" FontWeight="Bold" Width="82"/>
+        <Label Content="Customer Name" HorizontalAlignment="Left" Margin="15,199,0,0" VerticalAlignment="Top" Width="114" RenderTransformOrigin="0.292,0.318" FontFamily="Arial Black" FontWeight="Bold"/>
+        <Label Content="Invoice Date" HorizontalAlignment="Left" Margin="18,239,0,0" VerticalAlignment="Top" Width="111" FontFamily="Arial Black" FontWeight="Bold" RenderTransformOrigin="0.311,1.322"/>
+        <Label Content="Due Date" HorizontalAlignment="Left" Margin="18,278,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.012,1.397" FontFamily="Arial Black" FontWeight="Bold"/>
+        <Label Content="Total Price" HorizontalAlignment="Left" Height="23" Margin="18,0,0,95" VerticalAlignment="Bottom" Width="82" RenderTransformOrigin="0.35,3.092" FontFamily="Arial Black" FontWeight="Bold"/>
+        <Label Content="Product Name" HorizontalAlignment="Left" Margin="20,120,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.41,1.281" FontFamily="Arial Black" FontWeight="Bold"/>
+        <Label Content="Quantity" HorizontalAlignment="Left" Margin="22,161,0,0" VerticalAlignment="Top" Width="102" FontFamily="Arial Black" RenderTransformOrigin="0.27,1.033"/>
+        <TextBox HorizontalAlignment="Left" Height="17.96" Margin="153,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182" x:Name="Invoice_Id" />
+        <TextBox HorizontalAlignment="Left" Margin="153,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182" x:Name="Product_Name"/>
+        <TextBox HorizontalAlignment="Left" Margin="154,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" x:Name="Quantity"/>
+        <TextBox HorizontalAlignment="Left" Margin="153,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182" x:Name="Customer_Name"/>
+        <TextBox HorizontalAlignment="Left" Margin="153,316,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" RenderTransformOrigin="0.169,-1.518" x:Name="Total_Price"/>
+        <DatePicker HorizontalAlignment="Left" Margin="154,239,0,0" VerticalAlignment="Top" Width="179" x:Name="Invoice_Date"/>
+        <DatePicker HorizontalAlignment="Left" Margin="154,278,0,0" VerticalAlignment="Top" Width="179" x:Name="Due_Date"/>
+        <Label Content="INVOICE" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="35" Margin="385,32,0,0" VerticalAlignment="Top" Width="84" FontFamily="Algerian" FontSize="20" RenderTransformOrigin="1.006,0.501">
+            <Label.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.MenuHighlightColorKey}}"/>
+            </Label.Background>
+        </Label>
+        <DataGrid x:Name="DGrid"   Grid.Column="1" Margin="0,120,0,95" d:ItemsSource="{d:SampleData ItemCount=5}" HorizontalAlignment="Left" Width="497"/>
+        <Button Content="SUBMIT" HorizontalAlignment="Left" Margin="180,362,0,0" VerticalAlignment="Top" FontFamily="Arial Black" Height="38" Width="99" Click="Button_Click" x:Name="btnSubmit">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFE8E6DB" Offset="0.632"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Grid.Column="1" Content="Generate Bill" HorizontalAlignment="Left" Height="38" Margin="169,361,0,0" VerticalAlignment="Top" Width="125" FontFamily="Arial Black" FontSize="16" Click="Button_Click_2" />
+
+    </Grid>
+</Window>
